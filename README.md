@@ -6,7 +6,7 @@ Este repositório contém um projeto Java desenvolvido no IntelliJ IDEA. Este pr
 
 ## 🚀 Como Executar o Projeto
 
-1. **Clone o repositório:**
+**Clone o repositório:**
 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
